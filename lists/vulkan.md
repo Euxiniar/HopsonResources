@@ -48,5 +48,5 @@
 
 ### Examples
 
-- #### [Sascha Willems Vulkan Examples](https://github.com/SaschaWillems/Vulkan) [Begginner - Advanced]
+- #### [Sascha Willems Vulkan Examples](https://github.com/SaschaWillems/Vulkan) [Beginner - Advanced]
 	- Vulkan (C++) examples. This project is really cool to see how to use Vulkan as a whole. But the code is pretty outdated (no smart pointers for example), not correctly classified, and fullscreen has bugs.
